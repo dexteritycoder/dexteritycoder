@@ -10,10 +10,10 @@ Software developer who started coding at 13 and never really stopped. I build fu
 
 ## GitHub Stats
 
-![Abhinav's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=abhinav25232354&show_icons=true&theme=dark)
+![Abhinav's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=dexteritycoder&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=abhinav25232354&theme=dark&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dexteritycoder&theme=dark&layout=compact&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinav25232354&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dexteritycoder&theme=dark&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
